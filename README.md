@@ -4,7 +4,7 @@ A new Flutter project for Interview with DevDigital.
 
 ## Preview
 
-<img src="screenshots/Devdigital.webm" width="200"/>
+<img src="screenshots/Devdigital.mp4" width="200"/>
 
 ## Screenshots
 
