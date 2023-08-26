@@ -1,6 +1,6 @@
-# devdigital_task
+# devdigital_task(Timer CountDown App)
 
-A new Flutter project for Interview with DevDigital.
+A new Flutter project for Interview(Timer CountDown App) with DevDigital.
 
 ## Preview
 
