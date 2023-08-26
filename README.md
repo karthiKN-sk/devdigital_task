@@ -9,7 +9,7 @@ A new Flutter project for Interview(Timer CountDown App) with DevDigital.
 ## Screenshots
 
 <h2 id="Outputs">Outputs</h2>
-<><img height= "300" src="screenshots/Screenshot_1692972781.png" alt="output1" />
+<p><img height= "300" src="screenshots/Screenshot_1692972781.png" alt="output1" />
 <img height= "300" src="screenshots/Screenshot_1692972785.png" alt="output2" />
 <img height= "300" src="screenshots/Screenshot_1692972826.png" alt="output3" />
 <img height= "300" src="screenshots/Screenshot_1692972830.png" alt="output4" />
