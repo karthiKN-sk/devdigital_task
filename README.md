@@ -9,11 +9,11 @@ A new Flutter project for Interview with DevDigital.
 ## Screenshots
 
 <h2 id="Outputs">Outputs</h2>
-<p><img height= "300" src="screenshots/Screenshot_1692972781.png" alt="output1" />
+<><img height= "300" src="screenshots/Screenshot_1692972781.png" alt="output1" />
 <img height= "300" src="screenshots/Screenshot_1692972785.png" alt="output2" />
 <img height= "300" src="screenshots/Screenshot_1692972826.png" alt="output3" />
-<img height= "300" src="screenshots/Screenshot_1692972830.png" alt="output4" /></p>
-<img height= "300" src="screenshots/Screenshot_1692972832.png" alt="output5" /></p>
+<img height= "300" src="screenshots/Screenshot_1692972830.png" alt="output4" />
+<img height= "300" src="screenshots/Screenshot_1692972832.png" alt="output5" />
 <img height= "300" src="screenshots/Screenshot_1692972835.png" alt="output6" /></p>
 
 ## Getting Started
